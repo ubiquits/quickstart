@@ -35,3 +35,7 @@ testem.log
 #deployment keys
 .travis/*.pem
 .travis/*.pub
+
+# directories in root prefixed with _
+/_*
+
