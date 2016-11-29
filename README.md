@@ -1,3 +1,9 @@
+# THIS REPOSITORY IS DEPRECATED!
+Please note that the Ubiquits project has moved over to https://github.com/zerothstack/quickstart (http://zeroth.io)
+The API's are unchanged, it is just a project rename. All npm references have change from `@ubiquits/` to `@zerothstack/`
+
+Apologies for any inconvenience.
+
 ![ubiquits](https://rawgithub.com/ubiquits/assets/master/fulllogo.svg)
 
 ## Note
